@@ -14,3 +14,5 @@ Our servers were breached the 4th of September and because of this and other thi
 ###Where is the bot code?
 
 Here: https://github.com/ohMatty/CSGOShop-Steambot
+
+[![Run on Repl.it](https://repl.it/badge/github/ohMatty/CSGOShop)](https://repl.it/github/ohMatty/CSGOShop)
